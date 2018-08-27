@@ -5,6 +5,8 @@
 Requires [Node.js](https://nodejs.org/) and Android ADB globally to run.
 
 * Make sure that android developer mode and debugger is on
+* Make sure that your android phone is connected to computer via USB
+* Hope you enjoy!
 
 
 ```sh
